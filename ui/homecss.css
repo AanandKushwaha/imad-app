@@ -1,21 +1,50 @@
-﻿p{
+#about{
    font-size: 16px;
    font-family:sans-serif;
-   color:white;
+   color:#4EC857;
 } 
+h1{
+    font-family:sans-serif;
+    color:rgb(0, 0, 0);
+    font-size:40px;
+}
 h2{
     font-family:sans-serif;
-    color:white;
+    color:#4EC857;
 }
-ol{
+#heading{
+
+    height:70px;
+}
+#navig{ 
+    width:1220px;
+    height:50px;
+    float:left;
     font-family:sans-serif;
-    color:white;
+    color:#4EC857;
 }
 h3{
     font-family:sans-serif;
-    color:white;
+    color:#4EC857;
 }
 a{
     text-decoration: none;
-    color:yellow;
+    color:rgba(15, 15, 15, 0.925);
+    font-size:20px;
+    font-weight: bold;
+}
+.navlinks
+{
+    width:"100px";
+    height:"50px";
+    float: left;
+    margin-left:50px;
+    display:inline;
+}
+#logup{
+    float:right;
+    display:inline;
+    height:170px;
+    width:200px;
+    font-family:sans-serif;
 }
